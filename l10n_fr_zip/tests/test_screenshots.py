@@ -111,12 +111,11 @@ class TestFrZipScreenshots(ScreenshotCase or object):
         country = env.ref("base.fr")
         Partner = env["res.partner"]
         cls.partner_unique = Partner.create(
-            {"name": "Example Viriat Ltd", "is_company": True, "country_id": country.id, "street": "Main Street 7"}
+            {"name": "Example Viriat Ltd", "country_id": country.id, "street": "Main Street 7"}
         )
         cls.partner_shared = Partner.create(
             {
                 "name": "Example Francheleins Ltd",
-                "is_company": True,
                 "country_id": country.id,
                 "street": "Station Road 12",
             }
