@@ -6,5 +6,6 @@
     "French localities from GeoNames",
     "City and département from the code postal",
     "Bulk link of existing contacts"
-  ]
+  ],
+  "flag": "fr"
 }
