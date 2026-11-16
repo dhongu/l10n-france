@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <record id="state_fr_01" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">01</field>
+        <field name="name">Ain</field>
+    </record>
+    <record id="state_fr_02" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">02</field>
+        <field name="name">Aisne</field>
+    </record>
+    <record id="state_fr_03" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">03</field>
+        <field name="name">Allier</field>
+    </record>
+    <record id="state_fr_04" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">04</field>
+        <field name="name">Alpes-de-Haute-Provence</field>
+    </record>
+    <record id="state_fr_05" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">05</field>
+        <field name="name">Hautes-Alpes</field>
+    </record>
+    <record id="state_fr_06" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">06</field>
+        <field name="name">Alpes-Maritimes</field>
+    </record>
+    <record id="state_fr_07" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">07</field>
+        <field name="name">Ardèche</field>
+    </record>
+    <record id="state_fr_08" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">08</field>
+        <field name="name">Ardennes</field>
+    </record>
+    <record id="state_fr_09" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">09</field>
+        <field name="name">Ariège</field>
+    </record>
+    <record id="state_fr_10" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">10</field>
+        <field name="name">Aube</field>
+    </record>
+    <record id="state_fr_11" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">11</field>
+        <field name="name">Aude</field>
+    </record>
+    <record id="state_fr_12" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">12</field>
+        <field name="name">Aveyron</field>
+    </record>
+    <record id="state_fr_13" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">13</field>
+        <field name="name">Bouches-du-Rhône</field>
+    </record>
+    <record id="state_fr_14" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">14</field>
+        <field name="name">Calvados</field>
+    </record>
+    <record id="state_fr_15" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">15</field>
+        <field name="name">Cantal</field>
+    </record>
+    <record id="state_fr_16" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">16</field>
+        <field name="name">Charente</field>
+    </record>
+    <record id="state_fr_17" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">17</field>
+        <field name="name">Charente-Maritime</field>
+    </record>
+    <record id="state_fr_18" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">18</field>
+        <field name="name">Cher</field>
+    </record>
+    <record id="state_fr_19" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">19</field>
+        <field name="name">Corrèze</field>
+    </record>
+    <record id="state_fr_21" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">21</field>
+        <field name="name">Côte-d'Or</field>
+    </record>
+    <record id="state_fr_22" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">22</field>
+        <field name="name">Côtes-d'Armor</field>
+    </record>
+    <record id="state_fr_23" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">23</field>
+        <field name="name">Creuse</field>
+    </record>
+    <record id="state_fr_24" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">24</field>
+        <field name="name">Dordogne</field>
+    </record>
+    <record id="state_fr_25" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">25</field>
+        <field name="name">Doubs</field>
+    </record>
+    <record id="state_fr_26" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">26</field>
+        <field name="name">Drôme</field>
+    </record>
+    <record id="state_fr_27" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">27</field>
+        <field name="name">Eure</field>
+    </record>
+    <record id="state_fr_28" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">28</field>
+        <field name="name">Eure-et-Loir</field>
+    </record>
+    <record id="state_fr_29" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">29</field>
+        <field name="name">Finistère</field>
+    </record>
+    <record id="state_fr_2a" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">2A</field>
+        <field name="name">Corse-du-Sud</field>
+    </record>
+    <record id="state_fr_2b" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">2B</field>
+        <field name="name">Haute-Corse</field>
+    </record>
+    <record id="state_fr_30" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">30</field>
+        <field name="name">Gard</field>
+    </record>
+    <record id="state_fr_31" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">31</field>
+        <field name="name">Haute-Garonne</field>
+    </record>
+    <record id="state_fr_32" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">32</field>
+        <field name="name">Gers</field>
+    </record>
+    <record id="state_fr_33" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">33</field>
+        <field name="name">Gironde</field>
+    </record>
+    <record id="state_fr_34" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">34</field>
+        <field name="name">Hérault</field>
+    </record>
+    <record id="state_fr_35" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">35</field>
+        <field name="name">Ille-et-Vilaine</field>
+    </record>
+    <record id="state_fr_36" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">36</field>
+        <field name="name">Indre</field>
+    </record>
+    <record id="state_fr_37" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">37</field>
+        <field name="name">Indre-et-Loire</field>
+    </record>
+    <record id="state_fr_38" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">38</field>
+        <field name="name">Isère</field>
+    </record>
+    <record id="state_fr_39" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">39</field>
+        <field name="name">Jura</field>
+    </record>
+    <record id="state_fr_40" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">40</field>
+        <field name="name">Landes</field>
+    </record>
+    <record id="state_fr_41" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">41</field>
+        <field name="name">Loir-et-Cher</field>
+    </record>
+    <record id="state_fr_42" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">42</field>
+        <field name="name">Loire</field>
+    </record>
+    <record id="state_fr_43" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">43</field>
+        <field name="name">Haute-Loire</field>
+    </record>
+    <record id="state_fr_44" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">44</field>
+        <field name="name">Loire-Atlantique</field>
+    </record>
+    <record id="state_fr_45" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">45</field>
+        <field name="name">Loiret</field>
+    </record>
+    <record id="state_fr_46" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">46</field>
+        <field name="name">Lot</field>
+    </record>
+    <record id="state_fr_47" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">47</field>
+        <field name="name">Lot-et-Garonne</field>
+    </record>
+    <record id="state_fr_48" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">48</field>
+        <field name="name">Lozère</field>
+    </record>
+    <record id="state_fr_49" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">49</field>
+        <field name="name">Maine-et-Loire</field>
+    </record>
+    <record id="state_fr_50" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">50</field>
+        <field name="name">Manche</field>
+    </record>
+    <record id="state_fr_51" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">51</field>
+        <field name="name">Marne</field>
+    </record>
+    <record id="state_fr_52" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">52</field>
+        <field name="name">Haute-Marne</field>
+    </record>
+    <record id="state_fr_53" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">53</field>
+        <field name="name">Mayenne</field>
+    </record>
+    <record id="state_fr_54" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">54</field>
+        <field name="name">Meurthe-et-Moselle</field>
+    </record>
+    <record id="state_fr_55" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">55</field>
+        <field name="name">Meuse</field>
+    </record>
+    <record id="state_fr_56" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">56</field>
+        <field name="name">Morbihan</field>
+    </record>
+    <record id="state_fr_57" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">57</field>
+        <field name="name">Moselle</field>
+    </record>
+    <record id="state_fr_58" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">58</field>
+        <field name="name">Nièvre</field>
+    </record>
+    <record id="state_fr_59" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">59</field>
+        <field name="name">Nord</field>
+    </record>
+    <record id="state_fr_60" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">60</field>
+        <field name="name">Oise</field>
+    </record>
+    <record id="state_fr_61" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">61</field>
+        <field name="name">Orne</field>
+    </record>
+    <record id="state_fr_62" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">62</field>
+        <field name="name">Pas-de-Calais</field>
+    </record>
+    <record id="state_fr_63" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">63</field>
+        <field name="name">Puy-de-Dôme</field>
+    </record>
+    <record id="state_fr_64" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">64</field>
+        <field name="name">Pyrénées-Atlantiques</field>
+    </record>
+    <record id="state_fr_65" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">65</field>
+        <field name="name">Hautes-Pyrénées</field>
+    </record>
+    <record id="state_fr_66" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">66</field>
+        <field name="name">Pyrénées-Orientales</field>
+    </record>
+    <record id="state_fr_67" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">67</field>
+        <field name="name">Bas-Rhin</field>
+    </record>
+    <record id="state_fr_68" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">68</field>
+        <field name="name">Haut-Rhin</field>
+    </record>
+    <record id="state_fr_69" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">69</field>
+        <field name="name">Rhône</field>
+    </record>
+    <record id="state_fr_70" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">70</field>
+        <field name="name">Haute-Saône</field>
+    </record>
+    <record id="state_fr_71" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">71</field>
+        <field name="name">Saône-et-Loire</field>
+    </record>
+    <record id="state_fr_72" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">72</field>
+        <field name="name">Sarthe</field>
+    </record>
+    <record id="state_fr_73" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">73</field>
+        <field name="name">Savoie</field>
+    </record>
+    <record id="state_fr_74" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">74</field>
+        <field name="name">Haute-Savoie</field>
+    </record>
+    <record id="state_fr_75" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">75</field>
+        <field name="name">Paris</field>
+    </record>
+    <record id="state_fr_76" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">76</field>
+        <field name="name">Seine-Maritime</field>
+    </record>
+    <record id="state_fr_77" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">77</field>
+        <field name="name">Seine-et-Marne</field>
+    </record>
+    <record id="state_fr_78" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">78</field>
+        <field name="name">Yvelines</field>
+    </record>
+    <record id="state_fr_79" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">79</field>
+        <field name="name">Deux-Sèvres</field>
+    </record>
+    <record id="state_fr_80" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">80</field>
+        <field name="name">Somme</field>
+    </record>
+    <record id="state_fr_81" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">81</field>
+        <field name="name">Tarn</field>
+    </record>
+    <record id="state_fr_82" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">82</field>
+        <field name="name">Tarn-et-Garonne</field>
+    </record>
+    <record id="state_fr_83" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">83</field>
+        <field name="name">Var</field>
+    </record>
+    <record id="state_fr_84" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">84</field>
+        <field name="name">Vaucluse</field>
+    </record>
+    <record id="state_fr_85" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">85</field>
+        <field name="name">Vendée</field>
+    </record>
+    <record id="state_fr_86" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">86</field>
+        <field name="name">Vienne</field>
+    </record>
+    <record id="state_fr_87" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">87</field>
+        <field name="name">Haute-Vienne</field>
+    </record>
+    <record id="state_fr_88" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">88</field>
+        <field name="name">Vosges</field>
+    </record>
+    <record id="state_fr_89" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">89</field>
+        <field name="name">Yonne</field>
+    </record>
+    <record id="state_fr_90" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">90</field>
+        <field name="name">Territoire de Belfort</field>
+    </record>
+    <record id="state_fr_91" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">91</field>
+        <field name="name">Essonne</field>
+    </record>
+    <record id="state_fr_92" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">92</field>
+        <field name="name">Hauts-de-Seine</field>
+    </record>
+    <record id="state_fr_93" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">93</field>
+        <field name="name">Seine-Saint-Denis</field>
+    </record>
+    <record id="state_fr_94" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">94</field>
+        <field name="name">Val-de-Marne</field>
+    </record>
+    <record id="state_fr_95" model="res.country.state">
+        <field name="country_id" ref="base.fr" />
+        <field name="code">95</field>
+        <field name="name">Val-d'Oise</field>
+    </record>
+</odoo>

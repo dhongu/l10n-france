@@ -1,0 +1,10 @@
+{
+  "title": "France - City from ZIP",
+  "summary": "City and département from the French postal code",
+  "edition": "community",
+  "features": [
+    "French localities from GeoNames",
+    "City and département from the code postal",
+    "Bulk link of existing contacts"
+  ]
+}
